@@ -1,0 +1,17 @@
+body {
+  background-color: rgba(255, 99, 71, 0.5);
+}
+h1 {
+  color: white;
+  border: 6px solid white;
+  text-align:center;
+  margin: 60px;
+  font-family: verdana;
+  font-size: 200%;
+}
+p  {
+  color: white;
+  font-family: courier;
+  margin: 100px;
+  font-size: 120%;
+}
