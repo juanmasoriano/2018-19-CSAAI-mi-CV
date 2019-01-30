@@ -13,13 +13,13 @@ header{
   background-color: #393d42;
 }
 #col1{
-  height: 730px;
+  height: 800px;
   background-color: rgb(251,195,152);
   width: 300px;
   float: left;
 }
 #col2{
-  height: 730px;
+  height: 800px;
   background-color: white;
   width: 660px;
   float: right;
@@ -51,15 +51,17 @@ h2 {
   color: black;
 }
 h3 {
-  margin: 0;
-  padding: 35px;
+  width: 250px;
+  margin: top;
+  padding: 10px;
   text-align: left;
+  background-color: rgb(251,195,152);
   color: black;
 }
 h4 {
-  margin: 0;
-  padding: 10px;
-  text-align: center;
+  margin-left: 80px;
+  padding: 5px;
+  text-align: left;
   color: black;
 }
 p  {
