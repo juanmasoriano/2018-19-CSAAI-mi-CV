@@ -8,28 +8,33 @@ html {
   padding: 0;
   background-color: #B9AFA3;
 }
+/* Sección superior */
 header{
   height: 200px;
-  background-color: #393d42;
+    background-color: #393d42;
 }
+/* Parte izquierda de la sección inferior */
 #col1{
-  height: 800px;
+  height: 850px;
   background-color: rgb(251,195,152);
   width: 300px;
   float: left;
 }
+/* Parte derecha de la sección inferior */
 #col2{
-  height: 800px;
+  height: 850px;
   background-color: white;
   width: 660px;
   float: right;
 }
+/* Parte izquierda de la sección superior */
 #col3{
   height: 200px;
   background-color: black;
   width: 300px;
   float: left;
 }
+/* Parte derecha de la sección superior*/
 #col4{
   height: 200px;
   background-color: #393d42;
@@ -52,7 +57,7 @@ h2 {
 }
 h3 {
   width: 250px;
-  margin: top;
+  margin-top: 50px ;
   padding: 10px;
   text-align: left;
   background-color: rgb(251,195,152);
@@ -64,10 +69,17 @@ h4 {
   text-align: left;
   color: black;
 }
+h5 {
+  margin-left: 80px;
+  padding: 0px;
+  text-align: left;
+  font-size: 110%;
+  color: black;
+}
 p  {
   color: black;
   font-family: courier;
-  margin:0;
-  padding: 10px;
+  margin-left: 110px;
+  padding: 0;
   font-size: 100%;
 }
